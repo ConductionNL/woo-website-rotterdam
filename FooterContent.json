@@ -1,1 +1,40 @@
-[{"title":"Algemeen","items":[{"label":"Website","value":"www.rotterdam.nl","link":"https://www.rotterdam.nl/"},{"label":"Privacy","value":"Privacy","link":"https://www.rotterdam.nl/"},{"label":"Toegankelijkheid","value":"Toegankelijkheid","link":"https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"},{"label":"Over deze website","value":"Over deze website","link":"https://openwoo.app"}]},{"title":"Contact","items":[{"label":"Phone number","value":"14 010","link":"tel:14010"},{"label":"Contact","value":"Neem contact op","link":"https://www.rotterdam.nl/contact"}]}]
+[
+    {
+        "title": "Algemeen",
+        "items": [
+            {
+                "label": "Website",
+                "value": "www.rotterdam.nl",
+                "link": "https://www.rotterdam.nl/"
+            },
+            {
+                "value": "Privacy",
+                "link": "https://www.rotterdam.nl/privacy-gemeente-rotterdam"
+            },
+            {
+                
+                "value": "Toegankelijkheid",
+                "link": "https://accessibe.com/accessscan?website=https://conductionnl.github.io/${{ github.event.repository.name }}/"
+            },
+            {
+                "value": "Over deze website",
+                "link": "https://openwoo.app"
+            }
+        ]
+    },
+    {
+        "title": "Contact",
+        "items": [
+            {
+                "label": "Phone number",
+                "value": "14 010",
+                "link": "tel:14010"
+            },
+            {
+                "label": "Contact",
+                "value": "Neem contact op",
+                "link": "https://www.rotterdam.nl/contact"
+            }
+        ]
+    }
+]
