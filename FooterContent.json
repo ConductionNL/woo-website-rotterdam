@@ -39,7 +39,7 @@
       },
       {
         "ariaLabel": "Contact",
-        "value": "Contact",
+        "value": "Neem contact op",
         "link": "https://www.rotterdam.nl/contact",
         "icon": { "prefix": "fas", "icon": "earth-europe", "placement": "left" }
       }
